@@ -1,11 +1,11 @@
 # Basic
 title: 马驰
 subtitle: 个人博客
-description: 欢迎来到马马也的个人博客~
+description: 欢迎来到我的个人博客~
 # 头像里面的标题
-avatarTitle: machi
+avatarTitle: 马马也
 # 头像里面的描述
-avatarDesc: 一起进步吧~
+avatarDesc: 一起进步吧
 url: "https://github.com/machi12/machi12.github.io"
 
 # Comment
@@ -16,13 +16,12 @@ comment:
 
 # Social
 social:
-    weibo:  
+    weibo: 17860507950 
     github: machi12
     # zhihu: panpanleopard
     # juejin: xxx
     #jianshu: 2ada30d8d0f7
     # twitter: 
-    QQ:1224881140
     mail: 1224881150@qq.com
 
 
